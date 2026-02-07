@@ -37,13 +37,13 @@ By using this software, you agree to assume all associated risks and agree that 
 ## 安裝 / Installation
 
 ```
-wget https://raw.githubusercontent.com/Infinirc/igfc-Infinirc-Gpu-Fan-Control/main/igfc_install.sh && chmod +x igfc_install.sh && sudo ./igfc_install.sh
+wget https://raw.githubusercontent.com/ricky-chaoju/igfc-Infinirc-Gpu-Fan-Control/refs/heads/main/igfc_install.sh && chmod +x igfc_install.sh && sudo ./igfc_install.sh
 ```
 
 ## 解除安裝 / Uninstallation
 
 ```
-wget https://raw.githubusercontent.com/Infinirc/igfc-Infinirc-Gpu-Fan-Control/main/igfc_uninstall.sh && chmod +x igfc_uninstall.sh && sudo ./igfc_uninstall.sh
+wget https://raw.githubusercontent.com/ricky-chaoju/igfc-Infinirc-Gpu-Fan-Control/main/igfc_uninstall.sh && chmod +x igfc_uninstall.sh && sudo ./igfc_uninstall.sh
 ```
 
 
